@@ -1,5 +1,13 @@
 {
   "Covid Act Now API": {
     "datakey1": "a6bba0da693d4a2eae49a077bae85c2c"
+    "csvexamples1":"https://api.covidactnow.org/v2/states.csv?apiKey=YOUR_KEY_HERE",
+    "csvexamples2":"https://api.covidactnow.org/v2/counties.csv?apiKey=YOUR_KEY_HERE",
+    "csvexamples3":"https://api.covidactnow.org/v2/cbsas.csv?apiKey=YOUR_KEY_HERE",
+    "jsonexamples1":"https://api.covidactnow.org/v2/states.json?apiKey=YOUR_KEY_HERE",
+    "jsonexamples2":"https://api.covidactnow.org/v2/counties.json?apiKey=YOUR_KEY_HERE",
+    "jsonexamples3":"https://api.covidactnow.org/v2/cbsas.json?apiKey=YOUR_KEY_HERE",
   }
+
+
 }
